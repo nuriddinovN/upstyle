@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # UpStyle App Design
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# Upstyle
+>>>>>>> 54c0df562ff8846989b618e1b981fef019ff5698
